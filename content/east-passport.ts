@@ -1,6 +1,6 @@
 export type EastHand = {
   name: string;
-  description: string;
+  description?: string;
   note?: string;
   tiles?: string[][];
 };
