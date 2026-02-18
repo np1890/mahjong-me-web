@@ -1,6 +1,6 @@
 # MahjongMe
 
-Learn Mahjong rules and strategy. Interactive lessons and AI coaching coming soon.
+Learn Mahjong through structured lessons, glossary terms, strategy coaching, and AI gameplay.
 
 ## Tech Stack
 
@@ -41,9 +41,9 @@ npm start
 ```bash
 git init
 git add .
-git commit -m "Initial commit: Coming Soon page"
+git commit -m "Initial commit: Home skeleton + content structure"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git remote add origin git@github.com:YOUR_USERNAME/YOUR_REPO_NAME.git
 git push -u origin main
 ```
 
@@ -68,14 +68,40 @@ git push -u origin main
 ```
 MahjongMeWeb/
 ├── app/
-│   ├── layout.tsx    # Root layout, fonts, metadata
-│   ├── page.tsx      # Coming Soon homepage
-│   └── globals.css   # Global styles
+│   ├── layout.tsx             # Root layout + sticky header + shared background
+│   ├── page.tsx               # Home page (hero + navigation cards)
+│   ├── tutorial/
+│   │   ├── page.tsx           # Lesson list
+│   │   └── [slug]/page.tsx    # Dynamic lesson page from Markdown
+│   ├── glossary/page.tsx      # Glossary page from content/glossary.ts
+│   ├── strategy/page.tsx      # Strategy placeholder
+│   ├── play/page.tsx          # Play vs AI placeholder
+│   └── globals.css            # Global styles
+├── components/
+│   ├── site-header.tsx
+│   ├── site-background.tsx
+│   └── feature-card.tsx
+├── content/
+│   ├── README.md
+│   ├── glossary.ts
+│   └── tutorial/
+│       ├── index.ts
+│       └── lessons/*.md
+├── lib/
+│   └── content.ts             # Markdown/content loaders
 ├── public/
-│   └── images/       # Design assets (tiles, etc.)
+│   └── images/                # Design assets (tiles, etc.)
 └── ...
 ```
 
 ## Design Assets
 
 Tiles and table assets are in `public/images/` sourced from the MahjongMe Design Assets folder.
+
+## Editing Your Own Content
+
+- Tutorial content: `content/tutorial/lessons/*.md`
+- Tutorial order list: `content/tutorial/index.ts`
+- Glossary terms: `content/glossary.ts`
+
+See `content/README.md` for the exact format.

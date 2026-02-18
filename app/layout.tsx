@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import { DM_Serif_Display, DM_Serif_Text } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+import SiteBackground from "@/components/site-background";
+import SiteHeader from "@/components/site-header";
 import "./globals.css";
 
 const dmSerifDisplay = DM_Serif_Display({
@@ -17,7 +20,7 @@ const dmSerifText = DM_Serif_Text({
 export const metadata: Metadata = {
   title: "MahjongMe | Mahjong Rules & Strategy",
   description:
-    "Learn Mahjong rules and strategy. Interactive lessons and AI coaching coming soon.",
+    "Learn Mahjong through structured lessons, glossary terms, strategy coaching, and AI gameplay.",
 };
 
 export default function RootLayout({
@@ -30,7 +33,10 @@ export default function RootLayout({
       <body
         className={`${dmSerifDisplay.variable} ${dmSerifText.variable} antialiased font-serif`}
       >
-        {children}
+        <SiteBackground />
+        <SiteHeader />
+        <main className="relative z-10">{children}</main>
+        <Analytics />
       </body>
     </html>
   );
