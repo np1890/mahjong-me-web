@@ -21,8 +21,7 @@ export default function StrategyPage() {
             Strategy Coaching
           </h1>
           <p className="mt-3 text-gray-700">
-            This section is ready for your strategy framework, coaching drills, and tactical
-            examples. Add your content when you are ready.
+            This section is ready for strategy framework, coaching drills, and tactical examples.
           </p>
           <p className="mt-4 inline-block rounded-full border border-sky-300 bg-white/80 px-4 py-2 text-sm text-gray-700">
             Coming Soon

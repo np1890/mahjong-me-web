@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Play vs AI Masters | MahjongMe",
+  title: "Scoring Calculator | MahjongMe",
 };
 
 export default function PlayPage() {
@@ -18,11 +18,10 @@ export default function PlayPage() {
             className="text-4xl text-gray-900"
             style={{ fontFamily: "var(--font-dm-serif-display), Georgia, serif" }}
           >
-            Play Against AI Masters
+            Scoring Calculator
           </h1>
           <p className="mt-3 text-gray-700">
-            This mode is reserved for the upcoming AI gameplay experience. The page is live now as
-            part of the core site navigation.
+            Enter your round and winning hand of 14 tiles, we&apos;ll calculate and track your score.
           </p>
           <p className="mt-4 inline-block rounded-full border border-sky-300 bg-white/80 px-4 py-2 text-sm text-gray-700">
             Coming Soon

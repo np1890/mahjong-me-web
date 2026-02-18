@@ -11,7 +11,7 @@ The North Wind Round is East's choice. The dealer decides what to play: any of t
 | Aspect | Rules |
 |--------|-------|
 | **Exchanges** | East decides; may include tic-tac and wall exchanges as in South/West. |
-| **Permitted sets** | East chooses: any of the above hands, Goulash, Card hands (including double limit), Goulash with Jokers (dealer declares any minor number as jokers; only a crochet of jokers per player), or improvises. |
+| **Permitted sets** | East (dealer) selects any hand of their choice, including Goulash, Goulash with Jokers (dealer declares any minor number as jokers; only a crochet of jokers per player), Card hands (including double limit), or any other. |
 | **Claiming** | Pung from anywhere; clean chow/run from left; Mahjong from discard unless the card denies it. |
 | **Buying** | Not allowed. |
 | **Scoring** | Card hands without jokers: 2000/4000 or 4000/8000 (non-dealers / dealer). Card hands with jokers: half (table rule). East gives and receives double. |

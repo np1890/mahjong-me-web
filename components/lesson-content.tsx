@@ -5,6 +5,10 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import FrameAnimation from "@/components/frame-animation";
+import SmallCardCarousel from "@/components/small-card-carousel";
+import BigCard from "@/components/big-card";
+import GoulashCard from "@/components/goulash-card";
+import EastRoundCard from "@/components/east-round-card";
 
 type LessonContentProps = {
   content: string;
@@ -119,6 +123,18 @@ export default function LessonContent({ content }: LessonContentProps) {
                 );
               }
             }
+          }
+          if (classStr.includes("language-small-cards")) {
+            return <SmallCardCarousel />;
+          }
+          if (classStr.includes("language-big-card")) {
+            return <BigCard />;
+          }
+          if (classStr.includes("language-goulash")) {
+            return <GoulashCard />;
+          }
+          if (classStr.includes("language-east-round")) {
+            return <EastRoundCard />;
           }
           return (
             <pre className="mt-6 overflow-x-auto rounded-2xl border border-sky-200/80 bg-sky-50/50 p-4 text-sm">

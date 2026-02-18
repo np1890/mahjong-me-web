@@ -38,6 +38,16 @@ The numbered tiles are split into three suits: **Rings** (also called Circles or
 
 </div>
 
+**Majors:** The term **majors** combines terminals (1s and 9s) with honour tiles (Winds and Dragons). Majors are used in several special hands, such as All Pair Major Hand.
+
+<div class="text-center tile-pair-examples">
+
+![East Wind](/images/Wind_East.png) ![South Wind](/images/Wind_South.png) ![West Wind](/images/Wind_West.png) ![North Wind](/images/Wind_North.png) ![Red Dragon](/images/Dragon_Red.png) ![Green Dragon](/images/Dragon_Green.png) ![White Dragon](/images/Dragon_White.png) ![1 Dot](/images/Dot_1.png) ![9 Dot](/images/Dot_9.png) ![1 Bamboo](/images/Bamboo_1.png) ![9 Bamboo](/images/Bamboo_9.png) ![1 Character](/images/Character_1.png) ![9 Character](/images/Character_9.png)
+
+</div>
+
+*All majors: one of each Wind, one of each Dragon, and 1s and 9s of each suit*
+
 **Bamboo nuances:** Bamboos have two details worth remembering. First, colour coding: **Red Bamboos** are 1, 5, 7, and 9; **Green Bamboos** are 2, 3, 4, 6, and 8. Second, the 1 Bamboo tile is usually shown as a bird (often a crane) instead of a single bamboo stalk.
 
 <div class="text-center">

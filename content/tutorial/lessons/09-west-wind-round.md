@@ -12,7 +12,12 @@ The West Wind Round is the Goulash round. Goulash is played for every hand in th
 - **Majors** = Honours + Terminals (1s and 9s of any suit).
 - **Minors** = Numbers 2–8.
 
-**Examples of valid hands (3 doubles covered):** 4 Pungs/Kongs + Pair of Honours only; One suit without Honours; One suit with Honours (1 double + 2 more doubles needed).
+**Goulash reference**
+
+Permissible hands and doubles for quick reference:
+
+```goulash
+```
 
 **The Kitty**
 
@@ -29,7 +34,7 @@ Then: same order as South — 3 tiles to each wind (East→right, left, across; 
 | **Exchanges** | Compulsory: 3 tiles to each wind in fixed order, then 1 or 3 tic-tac/dotting, then 1 or 3 wall exchanges. East chooses how many. Wall exchanges cannot be drawn from Garden, Playing, or Own wall. |
 | **Permitted sets** | Pungs and Kongs only. No Chows, Crochet, Knit, Jokers, or buying. Hand = 4 Pungs/Kongs + 1 Pair. Minimum 3 doubles required. Kong replacement tile from Garden wall. |
 | **Basic points** | **Majors** (Winds, Dragons, 1s, 9s): Exposed pung 4, concealed 8; exposed kong 16, concealed 32; pair 2. **Minors** (2–8): Exposed pung 2, concealed 4; exposed kong 8, concealed 16. Each flower 4. Mahjong 20. |
-| **Doubles (3 required)** | **3 doubles:** All Pungs/Kongs of Honours; Pure suit (one suit, no honours); One suit with Honours. **2 doubles:** Four Kongs (exposed); Four Hidden Pungs. **1 double:** All Honours (3+); One Suit (3+); All Majors; Pungs/Kongs of 1s and 9s; Pung of Own Wind; Pung of Round Wind; Pung of Dragon; Three Pungs/Kongs of Dragons; Three Pungs/Kongs of Winds; Three Hidden Pungs; Own Flower/Season; Round Flower/Season. **3 doubles (Bouquet):** Bouquet. **4 doubles:** Four Hidden Kongs. **3 doubles:** Three Kongs. **2 doubles:** Three Hidden Kongs. **2 doubles:** Four Pungs/Kongs of Winds. Heads and Tails (1s and 9s only) = 3 doubles. |
+| **Doubles (3 required)** | For details on doubles refer to Goulash Reference. |
 | **Flowers / Seasons** | Kept concealed until penalty or claimed. Bouquet/own/round pair: claim immediately or keep as doubles. Need at least 1 set for a count. Real Bouquet 1000 from all. Double Bouquet (Blessings of the Eight Guardians) 5000 from all. Person going Mahjong does not pay. |
 | **Clean hands** | A clean hand covering 3 doubles also gets paid (a count). If penalty is paid (e.g. giving a tile to Mahjong when not calling), other players do not get a count. |
 | **Basic rules** | Flowers concealed until player is on penalty. May not end an Honour hand with a Terminal pair (or vice versa). Check the Mahjong hand before exposing your own. Dead hand: if you give a tile to Mahjong when not calling, you pay penalty. |

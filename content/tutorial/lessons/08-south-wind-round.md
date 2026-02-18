@@ -8,9 +8,21 @@ The South Wind Round is the card round. After four deals of East, play moves to 
 
 **Small Cards vs Mahjong GITA**
 
-- **Small Cards:** East places the cards face down. Each player picks one card in turn. Every player has a *different* hand to make — these are Special Classical Hands. Repeats are allowed unless the card says otherwise. Payment depends on the card (half, full, double, super, or top limit).
-- **Mahjong GITA (Big Card):** East chooses *one* hand from a list. All four players try to make *the same* hand. This is intermediate/advanced. All hands are paid Limit 1000/2000.
-- Double Limit cards are usually reserved for the North Wind Round (with Flowers as jokers).
+- **Small Cards:** East places the cards face down. Each player picks one card in turn. Every player has a *different* hand to make — these are Special Classical Hands. Repeats are allowed unless the card says otherwise. Payment depends on the card (half, full, double, super, or top limit). Double Limit cards are usually reserved for the North Wind Round (with Flowers as jokers).
+
+- **Big Card (Mahjong GITA):** East (the dealer) chooses one hand from the Big Card list. All four players make the same hand. This is intermediate/advanced — the variations include 4 Kongs, 3 Kongs, 2 Kongs, 3 Chows, Sequences, and Qwongs. All hands are paid Limit 1000/2000.
+
+**Small Cards reference**
+
+Browse the Small Cards below. Use the arrows to move through the carousel.
+
+```small-cards
+```
+
+**Mahjong GITA (Big Card) reference**
+
+```big-card
+```
 
 **Exchanges (before East's first discard)**
 

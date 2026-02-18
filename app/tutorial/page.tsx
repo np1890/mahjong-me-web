@@ -27,17 +27,17 @@ export default async function TutorialPage() {
             Tutorial
           </h1>
           <p className="mt-3 max-w-2xl text-base leading-7 text-gray-700">
-            A structured beginner path for Indian Traditional Mahjong.
+            A structured beginner path for an Indian variation of Mahjong.
           </p>
           <div className="mt-4 max-w-2xl space-y-3 text-base leading-7 text-gray-700">
             <p>
               Mahjong is a four-player strategic tile game that combines skill, memory, probability, and tactical decision-making. Played with a set of 144 tiles, the goal is to build a complete hand of four sets and one pair before your opponents do.
             </p>
             <p>
-              The Indian Traditional format follows a structured four-round system — East, South, West, and North — each introducing its own scoring style and strategic variation. While it shares roots with classical Chinese Mahjong, the Indian format has developed distinct gameplay elements, scoring mechanics, and round structures that make it uniquely dynamic and deeply strategic.
+              This Indian variation format follows a structured four-round system — East, South, West, and North — each introducing its own scoring style and strategic variation. While it shares roots with classical Chinese Mahjong, the Indian format has developed distinct gameplay elements, scoring mechanics, and round structures that make it uniquely dynamic and deeply strategic.
             </p>
             <p>
-              This course teaches the Indian Traditional 144-tile version in a clear, step-by-step format designed for complete beginners.
+              This course teaches an Indian variation 144-tile version in a clear, step-by-step format designed for complete beginners.
             </p>
           </div>
 
